@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_small_projects_Gallery/static/css/main.16874c94.css",
+    "main.js": "/React_small_projects_Gallery/static/js/main.50b7e15e.js",
+    "index.html": "/React_small_projects_Gallery/index.html",
+    "main.16874c94.css.map": "/React_small_projects_Gallery/static/css/main.16874c94.css.map",
+    "main.50b7e15e.js.map": "/React_small_projects_Gallery/static/js/main.50b7e15e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16874c94.css",
+    "static/js/main.50b7e15e.js"
+  ]
+}
